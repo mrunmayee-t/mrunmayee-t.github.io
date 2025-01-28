@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb53cd7a.css",
+    "main.js": "/static/js/main.a4c41851.js",
+    "static/js/453.15cc4906.chunk.js": "/static/js/453.15cc4906.chunk.js",
+    "static/media/Mario and Adrian A.jpg": "/static/media/Mario and Adrian A.7f44c6d6e341a27d14b3.jpg",
+    "static/media/Mario and Adrian b.jpg": "/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/bruchetta.svg": "/static/media/bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
+    "static/media/greek salad.jpg": "/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/restaurant.jpg": "/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/small_logo.png": "/static/media/small_logo.2c859235d6c57bb54176.png",
+    "static/media/Logo.svg": "/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "static/media/user1.jpg": "/static/media/user1.fb7568cd38df56db575f.jpg",
+    "static/media/delivery.svg": "/static/media/delivery.afdabbe52c76a5e18e4e7404985b5957.svg",
+    "static/media/instagram.svg": "/static/media/instagram.21092cf8cdff169826ac88a2f47e20d6.svg",
+    "index.html": "/index.html",
+    "static/media/call.svg": "/static/media/call.4a285495bfa5f02488145f6721ccea93.svg",
+    "static/media/email.svg": "/static/media/email.568cb99bc9af5d0c2d293f972fae3c6e.svg",
+    "static/media/location.svg": "/static/media/location.f15a42f7591604b81c7725b748d4d659.svg",
+    "static/media/twitter.svg": "/static/media/twitter.02f6fb3d67724a45b8ccb2b3ea9de973.svg",
+    "static/media/youtube.svg": "/static/media/youtube.1a8ad68d0983ed0435a92b29370cfae1.svg",
+    "static/media/facebook.svg": "/static/media/facebook.1a935b078977a92499137486ce3f00dc.svg",
+    "main.eb53cd7a.css.map": "/static/css/main.eb53cd7a.css.map",
+    "main.a4c41851.js.map": "/static/js/main.a4c41851.js.map",
+    "453.15cc4906.chunk.js.map": "/static/js/453.15cc4906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb53cd7a.css",
+    "static/js/main.a4c41851.js"
+  ]
+}
